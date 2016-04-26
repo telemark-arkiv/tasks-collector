@@ -6,8 +6,6 @@ Each collector is supposed to collect a user's tasks from a given system.
 ## Naming conventions
 Service tag ```tasks-collector-<systemname>```
 
-
-
 ## Inbound messages
 This microservice listens for the following messages
 
