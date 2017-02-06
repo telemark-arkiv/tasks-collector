@@ -1,4 +1,6 @@
 # tasks-collector
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tasks-collector.svg)](https://greenkeeper.io/)
 Seed for our task collectors.
 
 Each collector is supposed to collect a user's tasks from a given system.
